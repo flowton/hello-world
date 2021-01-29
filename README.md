@@ -1,7 +1,8 @@
-# User Portfolio 
+# Project Portfolio
 
-## [Data Science Project 1](https://github.com/flowton/hello-world/blob/main/Github_Test.md)
+## [Exploratory analysis of Gothenburg City Purchases](https://github.com/flowton/hello-world/blob/main/Github_Test.md)
 
+* Front-end dashboard via Streamlit accessed here: https://share.streamlit.io/flowton/gbg-purchase/main/app.py
 * Technology
 * Impact
 ![](https://raw.githubusercontent.com/flowton/hello-world/main/output_1_1.png)
