@@ -1,8 +1,8 @@
 # Project Portfolio
 
-## Purchases in the city of Gothenburg
+# Purchases in the city of Gothenburg
 
-> ## An explorative data analysis of all purchases made by the City of Gothenburg during 2016-2019. Insights into **what** it spends money on, **whom** it buys from and **when** it happens.
+> ### An explorative data analysis of all purchases made by the City of Gothenburg during 2016-2019. Insights into **what** it spends money on, **whom** it buys from and **when** it happens.
 
 
 * View the full data exploration [Notebook link](https://nbviewer.jupyter.org/github/flowton/gbg-purchase/blob/main/notebook_gbg_invoices.ipynb)
